@@ -3,3 +3,4 @@ __pycache__/
 .env
 cert.pem
 key.pem
+cashflow.db
